@@ -112,13 +112,13 @@ The build output will be located in the dist directory. This folder can be loade
 
 This project relies on the following dependencies:
 
-- [**Vue.js**](): A progressive JavaScript framework for building user interfaces.
+- [**Vue.js**](https://vuejs.org/): A progressive JavaScript framework for building user interfaces.
 
-- [**Tailwind CSS**](): A utility-first CSS framework.
+- [**Tailwind CSS**](https://tailwindcss.com/): A utility-first CSS framework.
 
-- [**Vite**](): A build tool that provides a fast development server and optimized build process.
+- [**Vite**](https://vitejs.dev/): A build tool that provides a fast development server and optimized build process.
 
-- [**CRXJS**](): A plugin for Vite to simplify Chrome extension development.
+- [**CRXJS**](https://crxjs.dev/vite-plugin/): A plugin for Vite to simplify Chrome extension development.
 
 ### Configuration
 
@@ -152,4 +152,6 @@ Contributions are welcome! If you have any ideas, issues, or suggestions, please
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 This project is licensed under the MIT License.
+
