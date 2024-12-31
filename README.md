@@ -31,17 +31,6 @@
 - **Lightweight and Fast**: Built with modern web technologies to ensure a smooth user experience.
 
 ## Installation
-
-### From the Chrome Web Store
-
-(Include this section if you plan to publish the extension on the Chrome Web Store)
-
-1. Go to the Chrome Web Store.
-
-2. Search for "Net Ninja - Sidebar Toggler".
-
-3. Click "Add to Chrome".
-
 ### Manual Installation
 
 1. Clone this repository or download the ZIP file.
